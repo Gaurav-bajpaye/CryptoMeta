@@ -11,7 +11,7 @@
 .btns{
     
     margin-top: 100px;
-    
+    background-color: "yellow";
 }
 
 @media only screen and (max-width: 600px) {
